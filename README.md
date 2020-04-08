@@ -1,1 +1,1 @@
-# clickonline
+I' am an infopreneur who believes that the information Communication Technology (ICT) can be used to control and manage the impact of the novel COVID-19 pandemic on the education sector of Nigeria. Considering the fact that Lagos, FCT and Ogun State have been lockdown by the Federal Government and other states are technically on lockdown in other to curtail the outbreak of the COVID-19 in Nigeria. Hence, ICT will used to start classes (lectures) for the students who have been affected by the lock down. # clickonline
